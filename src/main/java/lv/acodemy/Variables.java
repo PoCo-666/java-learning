@@ -68,7 +68,7 @@ public class Variables {
         int remainder = f % g;
         System.out.println(remainder);
 
-        int number = 8;
+        int number = 9;
         boolean isEven = (number % 2 == 0);
         System.out.println(isEven);
 
